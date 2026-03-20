@@ -3,5 +3,5 @@ services:
     image: 'qdrant/qdrant:latest'
     container_name: qdrant
     ports:
-      - '6335:6333'
+      - '6333:6333'
       - '6334:6334'
